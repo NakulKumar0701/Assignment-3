@@ -8,3 +8,6 @@ y = int(input("Enter a number :"))
 x = factorial(y) 
 
 print(f"The factorial of {y} is : {x}")   
+
+
+
