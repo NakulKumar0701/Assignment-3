@@ -7,3 +7,7 @@ z = math.sin(a)
 print(x)
 print(y)
 print(z)
+
+
+
+
